@@ -1,6 +1,10 @@
 aaaaaaaaaaaaaaaaaaaaaaaaaaa
 bbbbbbbbbbbbbbbbbb
 ccccccccccccccccccccccccc
+<<<<<<< HEAD
 hjjjjj
 
 xxxx
+=======
+hjjjjj
+>>>>>>> 17fec882dc53ce162f996b3cabb507ee6a0154e1
